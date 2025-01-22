@@ -1,5 +1,5 @@
 # martingale
-playing with the martingale strategy in python
+playing with the martingale strategy in python!
 
 preface:
 the martingale strategy is a betting system where a gambler doubles their bet after every loss, aiming to recover previous losses and make a profit equal to the initial stake. while it seems promising, the strategy is risky and often leads to financial ruin due to exponential bet increases.
